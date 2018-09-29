@@ -1,0 +1,51 @@
+#bloc_carburant{
+   width: 950px;
+   height: 450px;
+
+   margin-left: 85px;
+   margin-top:5px;
+    display: block;
+    //border: #000 2px dotted ;
+}
+#bloc_pane{
+    width: 950px;
+   height: 450px;
+
+   margin-left: 85px;
+   margin-top: 5px;
+   display: block;
+    //border: #000 2px dotted ;
+}
+#bloc_assurance{
+    width: 950px;
+   height: 450px;
+
+   margin-left: 85px;
+   margin-top: 5px;
+   display: inline-block;
+   // border: #000 2px dotted ; 
+}
+aside{
+    background-color: #f1f2f3;
+    margin: auto;
+}
+legend{
+   text-align: center;
+   margin: 10px;
+   font-family: Comic Sans MS ;
+   color: #0073aa;
+}
+.pannewidh{
+    font-family: Comic Sans MS ;
+    color: black;
+    font-size:15px;
+    font-weight: bold;
+}
+#profile{
+     width: 950px;
+   height: 450px;
+}
+
+.azzz{
+    width: 947px; height: 350px
+}
